@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353992219328",
+    "firebase_url": "https://wellbeing-53202.firebaseio.com",
+    "project_id": "wellbeing-53202",
+    "storage_bucket": "wellbeing-53202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353992219328:android:c14aabffde4b27dec2eb25",
+        "android_client_info": {
+          "package_name": "uk.nhs.leics.his.wellbeing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353992219328-joskr2duimrup6l8ql3ing10608fi9ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LYbyhA6e6enQmzWzlgva5ggs5CYwQbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353992219328-joskr2duimrup6l8ql3ing10608fi9ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353992219328-0gjh9afk7unhtgim1b9hbr8lkf0n26nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uk.nhs.leics.his.wellbeing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
